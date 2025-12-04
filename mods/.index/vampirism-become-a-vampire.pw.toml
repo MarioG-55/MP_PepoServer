@@ -1,0 +1,16 @@
+filename = 'Vampirism-1.20.1-1.10.13.jar'
+name = 'Vampirism - Become a vampire!'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3a5cef72c487c710a7494d773ceca44e2690b5b7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6289561
+project-id = 233029

@@ -1,0 +1,16 @@
+filename = 'create_oxidized-0.1.2.jar'
+name = 'Create: Oxidized'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cf1aae96a1af67d6ea615060cf8061fc18730ddb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6261649
+project-id = 953729

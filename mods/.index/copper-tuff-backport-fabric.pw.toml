@@ -1,0 +1,16 @@
+filename = 'copperandtuffbackport-1.2.jar'
+name = 'Copper & Tuff Backport (from 1.21) [Fabric | Forge]'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5a4d0ab2034cdfb55c501b2184103b9cf82d79fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5081431
+project-id = 950738

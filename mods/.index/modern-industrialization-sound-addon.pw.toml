@@ -1,0 +1,16 @@
+filename = 'mi_sound_addon-1.0.2-1.20.1.jar'
+name = 'Modern Industrialization Sound Addon'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c742384f180850281e0832048af6766361c8068e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4845484
+project-id = 910125
