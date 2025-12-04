@@ -1,8 +1,9 @@
 # Ignore everything
 *
 
-# Allow directories
+# Allow specific directories
 !config/
+!config/mysticalcustomization/
 !kubejs/
 !mods/
 
@@ -11,4 +12,5 @@
 !kubejs/**
 !mods/**
 
+# Allow .gitignore itself
 !.gitignore

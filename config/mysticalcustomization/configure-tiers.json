@@ -1,0 +1,17 @@
+{
+  "mysticalagriculture:1": {
+    "secondarySeedDrop": true
+  },
+  "mysticalagriculture:2": {
+    "secondarySeedDrop": true
+  },
+  "mysticalagriculture:3": {
+    "secondarySeedDrop": false
+  },
+  "mysticalagriculture:4": {
+    "secondarySeedDrop": false
+  },
+  "mysticalagriculture:5": {
+    "secondarySeedDrop": false
+  }
+}
