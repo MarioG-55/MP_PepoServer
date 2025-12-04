@@ -7,7 +7,7 @@
 !mods/
 
 # Allow contents inside those directories
-!config/**
+!config/mysticalcustomization/**
 !kubejs/**
 !mods/**
 
