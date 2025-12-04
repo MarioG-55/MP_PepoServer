@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow directories
+!config/
+!kubejs/
+!mods/
+
+# Allow contents inside those directories
+!config/**
+!kubejs/**
+!mods/**
+
+!.gitignore
