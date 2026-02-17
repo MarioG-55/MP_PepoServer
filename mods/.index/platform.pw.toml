@@ -1,16 +1,17 @@
-filename = 'Platform-forge-1.20.1-1.2.10.1.jar'
+filename = 'Platform-forge-1.20.1-1.2.11.6.2.jar'
 name = 'Platform'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Platform-forge-1.20.1-1.2.11.6.2.jar'
 
 [download]
-hash = '882bd514acc3f2e3dabfd6a659161c5e2253a4ed'
+hash = '1854581e32a7f2f850b84f168037160668051906'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6673724
+file-id = 7609676
 project-id = 997634

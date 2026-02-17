@@ -1,16 +1,17 @@
-filename = 'vanillabackport-forge-1.20.1-1.1.4.3.jar'
-name = 'Vanilla Backport: Chase the Skies, The Garden Awakens'
-side = 'both'
+filename = 'VanillaBackport-forge-1.20.1-1.1.5.4.2.jar'
+name = 'VanillaBackport'
+side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'VanillaBackport-forge-1.20.1-1.1.5.4.2.jar'
 
 [download]
-hash = '5b45e8d6da3bfd9e67cfe1ffbe31094c02812e95'
+hash = '4d4d63fd5ec405d01493a32da3ef691241376caa'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6696334
+file-id = 7597658
 project-id = 417430
