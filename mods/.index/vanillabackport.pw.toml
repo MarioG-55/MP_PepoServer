@@ -1,17 +1,21 @@
-filename = 'VanillaBackport-forge-1.20.1-1.1.6.3.jar'
+filename = 'VanillaBackport-forge-1.20.1-1.1.7.10.jar'
 name = 'VanillaBackport'
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'VanillaBackport-forge-1.20.1-1.1.6.3.jar'
+x-prismlauncher-version-number = 'VanillaBackport-forge-1.20.1-1.1.7.10.jar'
 
 [download]
-hash = '81814c002b96344a2a53a6f78796e70fe8eb0c9e'
+hash = 'a5ca598c0badd4b37a7b133ae8d2d9bf4cc20c40'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7830642
+file-id = 8229712
 project-id = 417430
+
+[[x-prismlauncher-dependencies]]
+addonId = '997634'
+type = 'REQUIRED'

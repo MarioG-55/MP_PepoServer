@@ -1,17 +1,25 @@
-filename = 'Vampirism-1.20.1-1.10.15.jar'
+filename = 'Vampirism-1.20.1-1.10.16.jar'
 name = 'Vampirism'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Vampirism-1.20.1-1.10.15'
+x-prismlauncher-version-number = 'Vampirism-1.20.1-1.10.16'
 
 [download]
-hash = '378f1f9b3be06218d8f2bc301e15ca3c10ca9084'
+hash = '248528e9d8f51665eb64c1419264fc78f3c5c4e2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7941889
+file-id = 8368458
 project-id = 233029
+
+[[x-prismlauncher-dependencies]]
+addonId = '380771'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'

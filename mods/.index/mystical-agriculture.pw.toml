@@ -1,16 +1,21 @@
-filename = 'MysticalAgriculture-1.20.1-7.0.23.jar'
+filename = 'MysticalAgriculture-1.20.1-7.0.24.jar'
 name = 'Mystical Agriculture'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '7.0.24'
 
 [download]
-hash = '2c54a9f0801667e4ae87a3cd625a1a94aab5b3516347cfa8ceceb988ef349f1191f41dc19a79b714e7fda733a2808fb3f6888914d57c2b61ade60eae0df84fec'
+hash = 'f4f24e48b0e342c7cb0c89e340d3338dbabee25ac0669b7157d8628f77e13e9e918ceb187ade7ad0aa93ccdbf0e4a4f9e0e2a6fee9e4e00398d3250e4b3e393b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/C95ReXie/versions/L4VoS46I/MysticalAgriculture-1.20.1-7.0.23.jar'
+url = 'https://cdn.modrinth.com/data/C95ReXie/versions/EEilTecF/MysticalAgriculture-1.20.1-7.0.24.jar'
 
 [update.modrinth]
 mod-id = 'C95ReXie'
-version = 'L4VoS46I'
+version = 'EEilTecF'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Rw1NrDzF'
+type = 'REQUIRED'
