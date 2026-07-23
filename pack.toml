@@ -1,0 +1,13 @@
+name = "PepoServer 2"
+author = "Mario55"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7ff63ce5dda4fadbda240bfa165c9fdf0e15ba98ad66434331aa001f8511c614"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

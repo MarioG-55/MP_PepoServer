@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# Allow specific directories
+!config/
+!config/mysticalcustomization/
+!kubejs/
+!mods/
+
+# Allow contents inside those directories
+!config/mysticalcustomization/**
+!kubejs/**
+!mods/**
+
+# Allow .gitignore itself
+!.gitignore
+!UPDATE.bat

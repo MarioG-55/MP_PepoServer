@@ -1,0 +1,13 @@
+name = "Vampire's Delight"
+filename = "VampiresDelight-1.20.1-0.1.13c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a489737e57b8c260f86d661404330ce8618a9d6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8200186
+project-id = 939092

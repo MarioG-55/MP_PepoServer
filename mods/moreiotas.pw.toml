@@ -1,0 +1,13 @@
+name = "MoreIotas"
+filename = "moreiotas-forge-1.20.1-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfcecf4ae2e2d6e3d5d1f4ad750fa35d2e6b56b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8256480
+project-id = 824728
