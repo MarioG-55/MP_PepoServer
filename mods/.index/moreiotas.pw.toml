@@ -1,33 +1,33 @@
 filename = 'moreiotas-forge-1.20.1-0.1.2.jar'
 name = 'MoreIotas'
-side = ''
+side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.2'
+x-prismlauncher-version-number = '0.1.2-forge'
 
 [download]
-hash = 'dd4b1ae29cb98492ac643ae92f5e2b0b578151b150cf7c30d3db9a913886752a1afb512fbc2ef6ca43c1e55788d78b0f6c8c1e4d5fe44c30dd5944e7acb50de4'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Jmt7p37B/versions/CEgmhGUx/moreiotas-forge-1.20.1-0.1.2.jar'
+hash = 'dfcecf4ae2e2d6e3d5d1f4ad750fa35d2e6b56b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'Jmt7p37B'
-version = 'CEgmhGUx'
+[update.curseforge]
+file-id = 8256480
+project-id = 824728
 
 [[x-prismlauncher-dependencies]]
-addonId = 'TZo2wHFe'
+addonId = '597824'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'nU0bVIaL'
+addonId = '306770'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'ordsPcFz'
+addonId = '569849'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'nTW3yKrm'
+addonId = '351264'
 type = 'REQUIRED'

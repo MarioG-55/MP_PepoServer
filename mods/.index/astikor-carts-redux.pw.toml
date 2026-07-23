@@ -1,18 +1,18 @@
-filename = 'astikorcarts-1.20.1-1.1.8.jar'
+filename = 'astikorcartsredux-1.2.3.jar'
 name = 'AstikorCarts Redux'
 side = 'server'
 x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'AstikorCarts Redux v1.1.8b'
+x-prismlauncher-version-number = 'AstikorCarts Redux v1.2.3'
 
 [download]
-hash = '49a8ac1c23282fe86420f0b4527e522421f2f692'
+hash = '62c693ee857ff6bd39e7582d02b57874ec0aa8ac'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5574685
+file-id = 8454838
 project-id = 916493

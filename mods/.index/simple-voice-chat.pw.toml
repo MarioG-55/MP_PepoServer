@@ -1,25 +1,25 @@
-filename = 'voicechat-forge-1.20.1-2.6.20.jar'
+filename = 'voicechat-forge-1.20.1-2.6.21.jar'
 name = 'Simple Voice Chat'
-side = ''
+side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[FORGE][1.20.1] Simple Voice Chat 1.20.1-2.6.20'
+x-prismlauncher-version-number = '[FORGE][1.20.1] Simple Voice Chat 1.20.1-2.6.21'
 
 [download]
-hash = 'c5963f6c9a7bca129a10da44c7b62f95edd8049c'
+hash = '77ae96b41c9328213659991c113a6e13c95724ba'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8293039
+file-id = 8464069
 project-id = 416089
 
 [[x-prismlauncher-dependencies]]
-addonId = '535489'
+addonId = '348521'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '348521'
+addonId = '535489'
 type = 'OPTIONAL'
