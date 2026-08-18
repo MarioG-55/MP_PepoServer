@@ -1,6 +1,6 @@
 filename = 'ImmediatelyFast-Forge-1.5.5+1.20.4.jar'
 name = 'ImmediatelyFast'
-side = ''
+side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]

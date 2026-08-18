@@ -1,19 +1,19 @@
-filename = 'journeymap-1.20.1-5.10.3-forge.jar'
-name = 'JourneyMap'
-side = ''
+filename = 'journeymap-forge-1.20.1-6.0.2.jar'
+name = 'Journeymap'
+side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'journeymap-1.20.1-5.10.3-forge'
+x-prismlauncher-version-number = 'journeymap-1.20.1-6.0.2+forge'
 
 [download]
-hash = 'd0bbe7c23049892b154b6417904dd027fb53a37a'
+hash = 'b1a2d795f31c0e8d82a065216db37a155070ea7c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5789363
+file-id = 8658254
 project-id = 32274
 
 [[x-prismlauncher-dependencies]]

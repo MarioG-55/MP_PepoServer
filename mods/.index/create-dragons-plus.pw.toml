@@ -1,0 +1,21 @@
+filename = 'CreateDragonsPlus-1.11.7.jar'
+name = 'Create: Dragons Plus'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.11.7'
+
+[download]
+hash = 'e9de51f132529443baf6d7af36503b313ae37dc265246d3af1dc5e78d4793fe336ad042455c8434b2826c2f32ae27ebc5d95a88db16b26c23ef7bc08556bf2bc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dzb1a5WV/versions/vwCqumIg/CreateDragonsPlus-1.11.7.jar'
+
+[update.modrinth]
+mod-id = 'dzb1a5WV'
+version = 'vwCqumIg'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

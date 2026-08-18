@@ -1,16 +1,18 @@
 filename = 'AI-Improvements-1.20-0.5.2.jar'
 name = 'AI Improvements'
-side = 'both'
+side = 'server'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.5.2'
 
 [download]
-hash = '11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'eb932308aceb30f5157e967f1bd4b57eb1a1b2093886cbfaef6524b780337b8b0e2bd41c5103694c3a275827ceb7d63e7c55637a7a46f8e21f0a6770346b757d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DSVgwcji/versions/eJihmpNQ/AI-Improvements-1.20-0.5.2.jar'
 
-[update.curseforge]
-file-id = 4578262
-project-id = 233019
+[update.modrinth]
+mod-id = 'DSVgwcji'
+version = 'eJihmpNQ'

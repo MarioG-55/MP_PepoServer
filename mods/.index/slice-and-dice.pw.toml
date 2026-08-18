@@ -1,8 +1,8 @@
 filename = 'sliceanddice-forge-3.6.0.jar'
 name = 'Create Slice & Dice'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 x-prismlauncher-version-number = '3.6.0'
 
@@ -15,3 +15,19 @@ url = 'https://cdn.modrinth.com/data/GmjmRQ0A/versions/KWLI8Ng7/sliceanddice-for
 [update.modrinth]
 mod-id = 'GmjmRQ0A'
 version = 'KWLI8Ng7'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JWGBpFUP'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'bCxmmxKN'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'R2OftAxM'
+type = 'OPTIONAL'

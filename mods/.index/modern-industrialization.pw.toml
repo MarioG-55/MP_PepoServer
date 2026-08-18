@@ -4,13 +4,46 @@ side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.8.6'
 
 [download]
-hash = 'cf1f266420d1cd3776fef05a5ec690802268656a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'da1d05f6eacdd4f5ebb104bf331fcebc757874deb6a0d8d4dfb9954a4bb3411dba19dd24778983a1c5e42616a388e2fb62284a870aeaed7733f933a60ce6fb20'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Gov5Dboq/versions/18Bcl0A4/Modern-Industrialization-1.8.6.jar'
 
-[update.curseforge]
-file-id = 5562363
-project-id = 405388
+[update.modrinth]
+mod-id = 'Gov5Dboq'
+version = '18Bcl0A4'
+
+[[x-prismlauncher-dependencies]]
+addonId = '6AQIaxuO'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nU0bVIaL'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Hv40r83o'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nfn13YXA'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fRiHVvU7'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

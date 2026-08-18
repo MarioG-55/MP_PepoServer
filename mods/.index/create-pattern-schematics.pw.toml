@@ -2,7 +2,7 @@ filename = 'create_pattern_schematics-1.3.3.jar'
 name = 'Create: Pattern Schematics'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 x-prismlauncher-version-number = '1.3.3'
 
@@ -15,3 +15,7 @@ url = 'https://cdn.modrinth.com/data/cpqKG67r/versions/Rfwgb1aK/create_pattern_s
 [update.modrinth]
 mod-id = 'cpqKG67r'
 version = 'Rfwgb1aK'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

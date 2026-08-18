@@ -1,16 +1,18 @@
-filename = 'fabric-api-0.92.6+1.11.14+1.20.1.jar'
+filename = 'fabric-api-0.92.6+1.11.15+1.20.1.jar'
 name = 'Forgified Fabric API'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.92.6+1.11.15+1.20.1'
 
 [download]
-hash = '285c22b2567b9fdf98ef9808eceb5557de9611d3'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'da1e59fa754edb24d8a3b6023ef648d6431a8297a9e873d18bfe866aca9384f491af1b438c2c4b75dbf9bd4b9a11daf717a8d1469e9efaed145e5c53f9cbcf37'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Aqlf1Shp/versions/g0MxcWXy/fabric-api-0.92.6%2B1.11.15%2B1.20.1.jar'
 
-[update.curseforge]
-file-id = 6885853
-project-id = 889079
+[update.modrinth]
+mod-id = 'Aqlf1Shp'
+version = 'g0MxcWXy'

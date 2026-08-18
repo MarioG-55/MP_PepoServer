@@ -4,13 +4,22 @@ side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.0.3'
 
 [download]
-hash = '8496291a5b7d0eecfb2b68f8c10c2bf7ae9c7bf7'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '89102b9006489a0c920d0bb5b82207cd867ff2c18270e5e738297baddb4e4e4b73e557a79e7926168c5a559da64b1ce16d39858a1f88d6a82d12f6314225ae16'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lNK9A4rh/versions/mh67MHTQ/MysticalCustomization-1.20.1-5.0.3.jar'
 
-[update.curseforge]
-file-id = 6880327
-project-id = 280441
+[update.modrinth]
+mod-id = 'lNK9A4rh'
+version = 'mh67MHTQ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Rw1NrDzF'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'C95ReXie'
+type = 'REQUIRED'

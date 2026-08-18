@@ -1,8 +1,8 @@
 filename = 'create_jetpack-forge-4.4.6.jar'
 name = 'Create Jetpack'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 x-prismlauncher-version-number = '4.4.6'
 
@@ -15,3 +15,7 @@ url = 'https://cdn.modrinth.com/data/UbFnAd4l/versions/Ft2vxKG4/create_jetpack-f
 [update.modrinth]
 mod-id = 'UbFnAd4l'
 version = 'Ft2vxKG4'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

@@ -1,25 +1,25 @@
 filename = 'Unusual-Prehistory-2-1.20.1-1.4.3.jar'
 name = 'Unusual Prehistory 2'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Unusual-Prehistory-2-1.20.1-1.4.3.jar'
+x-prismlauncher-version-number = '1.20.1-1.4.3'
 
 [download]
-hash = '107ad0245caab26a9ba0a7ea5188b7ed04b1a0bb'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '60d7287e8ce1542c9234ef06d7f4976000a0b8ebfdb005c821b4a4b30c6ed4e7386f5e74331f0dd639683f6be1d855397e243672c6e0ff525a347a4a89a2ee8d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KwCqEdeN/versions/vqKSOCni/Unusual-Prehistory-2-1.20.1-1.4.3.jar'
 
-[update.curseforge]
-file-id = 7865890
-project-id = 1355824
-
-[[x-prismlauncher-dependencies]]
-addonId = '306770'
-type = 'REQUIRED'
+[update.modrinth]
+mod-id = 'KwCqEdeN'
+version = 'vqKSOCni'
 
 [[x-prismlauncher-dependencies]]
-addonId = '238222'
+addonId = 'u6dRKJwZ'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nU0bVIaL'
+type = 'REQUIRED'
